@@ -1,31 +1,31 @@
 Metallosphaera cuprina Ar-4
-"Pyrobaculum arsenaticum PZ6, DSM 13514"
+Pyrobaculum arsenaticum PZ6, DSM 13514
 Pyrobaculum calidifontis JCM 11548
 Sulfolobus solfataricus P2
 Thermofilum pendens Hrk 5
 Thermoproteus neutrophilus V24Sta
-"Staphylothermus hellenicus P8, DSM 12710"
-"Caldisphaera lagunensis IC-154, DSM 15908"
-"Desulfurococcus mucosus 07/1, DSM 2162"
-"Ignisphaera aggregans AQ1.S1, DSM 17230"
-"Sulfolobus acidocaldarius 98-3, DSM 639"
+Staphylothermus hellenicus P8, DSM 12710
+Caldisphaera lagunensis IC-154, DSM 15908
+Desulfurococcus mucosus 07/1, DSM 2162
+Ignisphaera aggregans AQ1.S1, DSM 17230
+Sulfolobus acidocaldarius 98-3, DSM 639
 Sulfolobus islandicus M.14.25
 Thermogladius cellulolyticus 1633
-"Thermosphaera aggregans M11TL, DSM 11486"
+Thermosphaera aggregans M11TL, DSM 11486
 Vulcanisaeta distributa DSM 14429
-"Aeropyrum camini SY1, JCM 12091"
-"Ignicoccus hospitalis KIN4/I, DSM 18386"
-"Staphylothermus marinus F1, DSM 3639"
+Aeropyrum camini SY1, JCM 12091
+Ignicoccus hospitalis KIN4/I, DSM 18386
+Staphylothermus marinus F1, DSM 3639
 Pyrobaculum aerophilum IM2
 Hyperthermus butylicus DSM 5456
 Metallosphaera sedula DSM 5348
-"Pyrolobus fumarii 1A, DSM 11204"
+Pyrolobus fumarii 1A, DSM 11204
 Acidianus hospitalis W1
 Sulfolobus islandicus L.D.8.5
 Sulfolobus islandicus M.16.4
 Thermoproteus uzoniensis 768-20
 Acidilobus saccharovorans 345-15
-"Sulfolobus tokodaii 7, JCM 10545"
+Sulfolobus tokodaii 7, JCM 10545
 Desulfurococcus kamchatkensis 1221n
 Sulfolobus islandicus HVE10/4
 Sulfolobus islandicus REY15A
@@ -48,23 +48,23 @@ Methanothermococcus okinawensis IH1
 Methanocaldococcus sp. FS406-22
 Methanocaldococcus fervens AG86
 Methanocaldococcus infernus ME
-"Methanocaldococcus vulcanius M7, DSM 12094"
-"Archaeoglobus profundus Av18, DSM 5631"
-"Archaeoglobus veneficus SNP6, DSM 11195"
+Methanocaldococcus vulcanius M7, DSM 12094
+Archaeoglobus profundus Av18, DSM 5631
+Archaeoglobus veneficus SNP6, DSM 11195
 Halorubrum lacusprofundi ATCC 49239
 Natrialba magadii ATCC 43099
-"Natronomonas pharaonis Gabara, DSM 2160"
-"Ferroglobus placidus AEDII12DO, DSM 10642"
+Natronomonas pharaonis Gabara, DSM 2160
+Ferroglobus placidus AEDII12DO, DSM 10642
 Thermococcus onnurineus NA1
-"Natronobacterium gregoryi SP2, DSM 3393"
-"Methanosarcina barkeri Fusaro, DSM 804"
-"Haloquadratum walsbyi C23, DSM 16854"
-"Haloquadratum walsbyi HBSQ001, DSM 16790"
-"Natronomonas moolapensis 8.8.11, DSM 18674"
-"Halovivax ruber XH-70, DSM 18193"
+Natronobacterium gregoryi SP2, DSM 3393
+Methanosarcina barkeri Fusaro, DSM 804
+Haloquadratum walsbyi C23, DSM 16854
+Haloquadratum walsbyi HBSQ001, DSM 16790
+Natronomonas moolapensis 8.8.11, DSM 18674
+Halovivax ruber XH-70, DSM 18193
 Halopiger xanaduensis SH-6
-"Halostagnicola larsenii XH-48, DSM 17691"
-"Methanothermus fervidus V24S, DSM 2088"
+Halostagnicola larsenii XH-48, DSM 17691
+Methanothermus fervidus V24S, DSM 2088
 Thermococcus litoralis DSM 5473
 Thermococcus gammatolerans EJ3
 Methanocaldococcus jannaschii DSM 2661
@@ -76,30 +76,30 @@ Thermococcus sp. CL1
 Thermoplasma volcanium GSS1
 Pyrococcus sp. ST04
 Methanococcus maripaludis S2
-"Archaeoglobus fulgidus VC-16, DSM 4304"
-"Archaeoglobus sulfaticallidus PM70-1, DSM 19444"
+Archaeoglobus fulgidus VC-16, DSM 4304
+Archaeoglobus sulfaticallidus PM70-1, DSM 19444
 Haloarcula marismortui ATCC 43049
 uncultured marine group II euryarchaeote
-"Methanoculleus marisnigri JR1, DSM 1498"
-"Halorhabdus utahensis AX-2, DSM 12940"
-"Methanohalophilus mahii SLP, DSM 5219"
+Methanoculleus marisnigri JR1, DSM 1498
+Halorhabdus utahensis AX-2, DSM 12940
+Methanohalophilus mahii SLP, DSM 5219
 Methanomethylovorans hollandica DSM 15978
-"Methanosalsum zhilinae WeN5, DSM 4017"
-"Natronococcus occultus SP4, DSM 3396"
+Methanosalsum zhilinae WeN5, DSM 4017
+Natronococcus occultus SP4, DSM 3396
 Palaeococcus pacificus DY20341
 Aciduliprofundum boonei T469
 Aciduliprofundum sp. MAR08-339
-"Thermococcus barophilus MP, DSM 11836"
+Thermococcus barophilus MP, DSM 11836
 Thermococcus sp. AM4
 Pyrococcus abyssi GE5
 Halobacterium sp. NRC-1
 Methanosphaera stadtmanae DSM 3091
-"Methanosarcina mazei Go1, DSM 3647"
-"Halalkalicoccus jeotgali B3, DSM 18796"
-"Haloferax mediterranei R-4, ATCC 33500"
+Methanosarcina mazei Go1, DSM 3647
+Halalkalicoccus jeotgali B3, DSM 18796
+Haloferax mediterranei R-4, ATCC 33500
 Methanococcus maripaludis X1
 Methanococcus voltae A3
-"Methanohalobium evestigatum Z-7303, DSM 3721"
+Methanohalobium evestigatum Z-7303, DSM 3721
 Methanobacterium sp. AL-21
 Halobacterium sp. DL1
 Methanosaeta thermophila PT
@@ -110,21 +110,21 @@ Methanosaeta concilii GP-6
 Methanoregula boonei 6A8
 Methanobrevibacter ruminantium M1
 Methanobrevibacter sp. AbM4
-"Natrinema pellirubrum 157, JCM 10476"
-"Methanobrevibacter smithii PS, ATCC 35061"
+Natrinema pellirubrum 157, JCM 10476
+Methanobrevibacter smithii PS, ATCC 35061
 Methanocella arvoryzae MRE50
 Thermococcus sibiricus MM 739
 Methanocaldococcus sp. JH146
 Thermococcus kodakarensis KOD1
 Methanosarcina acetivorans C2A
-"Haloferax volcanii DS2, ATCC 29605"
+Haloferax volcanii DS2, ATCC 29605
 Methanopyrus kandleri AV19
 Methanococcus vannielii SB
-"Methanoplanus petrolearius SEBR 4847, DSM 11571"
+Methanoplanus petrolearius SEBR 4847, DSM 11571
 Methanococcus aeolicus Nankai-3
 Methanococcus maripaludis C7
 Pyrococcus furiosus DSM 3638
-"Methanotorris igneus Kol5, DSM 5666"
+Methanotorris igneus Kol5, DSM 5666
 Methanospirillum hungatei JF-1
 Archaeoglobus fulgidus DSM 8774
 Candidatus Methanomassiliicoccus intestinalis Issoire-Mx1
@@ -132,7 +132,7 @@ Candidatus Methanomethylophilus alvus Mx1201
 Ferroplasma acidarmanus Fer1
 Haloarcula hispanica CGMCC 1.2049
 Haloarcula hispanica N601
-"Halobacterium salinarum R1, DSM 671"
+Halobacterium salinarum R1, DSM 671
 Haloferax mediterranei ATCC 33500
 Methanobacterium sp. SWAN-1
 Methanoculleus bourgensis MS2
@@ -147,18 +147,18 @@ Thermococcus nautili 30-1
 Thermococcus sp. ES1
 Thermoplasmatales archaeon BRNA1
 Methanocella conradii HZ254
-"Haloterrigena turkmenica VKM B-1734, DSM 5511"
-"Halomicrobium mukohataei arg-2, DSM 12286"
+Haloterrigena turkmenica VKM B-1734, DSM 5511
+Halomicrobium mukohataei arg-2, DSM 12286
 Methanolinea tarda NOBI-1
-"Methanoregula formicica SMSP, DSM 22288"
+Methanoregula formicica SMSP, DSM 22288
 Methanothermobacter marburgensis Marburg DSM 2133
 Methanothermobacter thermautotrophicus Delta H
 Methanocella paludicola SANAE
-"Methanosphaerula palustris E1-9c, DSM 19958"
+Methanosphaerula palustris E1-9c, DSM 19958
 Picrophilus torridus DSM 9790
-"Halogeometricum borinquense PR3, DSM 11551"
+Halogeometricum borinquense PR3, DSM 11551
 Thermoplasma acidophilum DSM 1728
-"Methanofollis liminatans GKZPZ, DSM 4140"
+Methanofollis liminatans GKZPZ, DSM 4140
 Candidatus Korarchaeum cryptofilum OPF8
 Nanoarchaeum equitans Kin4-M
 Cenarchaeum symbiosum A
@@ -170,36 +170,36 @@ Candidatus Nitrososphaera evergladensis SR1
 Nitrososphaera viennensis EN76
 Halyomorpha halys symbiont
 Candidatus Methylomirabilis oxyfera
-"Thermobaculum terrenum YNP1, ATCC BAA-798"
+Thermobaculum terrenum YNP1, ATCC BAA-798
 Acidobacterium capsulatum ATCC 51196
 Granulicella tundricola MP5ACTX9
 Candidatus Solibacter usitatus Ellin6076
 Candidatus Koribacter versatilis Ellin345
 Candidatus Chloracidobacterium thermophilum B
 Granulicella mallensis MP5ACTX8
-"Terriglobus roseus KBS 63, DSM 18391"
-"Terriglobus saanensis SP1PR4, DSM 23119"
-"Intrasporangium calvum 7KIP, DSM 43043"
-"Thermobispora bispora R51, DSM 43833"
+Terriglobus roseus KBS 63, DSM 18391
+Terriglobus saanensis SP1PR4, DSM 23119
+Intrasporangium calvum 7KIP, DSM 43043
+Thermobispora bispora R51, DSM 43833
 Corynebacterium pseudotuberculosis CS_10
 Kineococcus radiotolerans SRS30216
-"Acidimicrobium ferrooxidans ICP, DSM 10331"
+Acidimicrobium ferrooxidans ICP, DSM 10331
 Acidothermus cellulolyticus 11B
 Candidatus Rhodoluna lacicola MWH-Ta8
 Dermacoccus nishinomiyaensis M25
 Rhodococcus erythropolis PR4
-"Kytococcus sedentarius 541, DSM 20547"
+Kytococcus sedentarius 541, DSM 20547
 Verrucosispora maris AB-18-032
 Mycobacterium gilvum PYR-GCK
-"Nakamurella multipartita Y-104, DSM 44233"
+Nakamurella multipartita Y-104, DSM 44233
 Corynebacterium ureicelerivorans IMMIB RIV-2301
 Corynebacterium resistens DSM 45100
-"Saccharomonospora viridis P101, DSM 43017"
+Saccharomonospora viridis P101, DSM 43017
 Trueperella pyogenes TP6375
-"Jonesia denitrificans 55134, DSM 20603"
-"Sanguibacter keddieii ST-74, DSM 10542"
+Jonesia denitrificans 55134, DSM 20603
+Sanguibacter keddieii ST-74, DSM 10542
 Bifidobacterium adolescentis 22L
-"Beutenbergia cavernae HKI 0122, DSM 12333"
+Beutenbergia cavernae HKI 0122, DSM 12333
 Thermomonospora curvata DSM 43183
 Mycobacterium rhodesiae NBB3
 Mycobacterium chubuense NBB4
@@ -207,7 +207,7 @@ Mycobacterium gilvum Spyr1
 Mycobacterium sp. JLS
 Mycobacterium sp. KMS
 Mycobacterium sp. MCS
-"Arthrobacter arilaitensis re117, CIP 108037"
+Arthrobacter arilaitensis re117, CIP 108037
 Bifidobacterium thermophilum RBL67
 Cellulomonas gilvus ATCC 13127
 Mycobacterium avium paratuberculosis K-10
@@ -215,7 +215,7 @@ Bifidobacterium longum longum F8
 Bifidobacterium animalis animalis ATCC 25527
 Bifidobacterium longum infantis ATCC 15697
 Bifidobacterium longum infantis JCM 1222
-"Bifidobacterium animalis lactis Bl-04, ATCC SD5219"
+Bifidobacterium animalis lactis Bl-04, ATCC SD5219
 Bifidobacterium animalis lactis V9
 Bifidobacterium bifidum BGN4
 Bifidobacterium bifidum PRL2010
@@ -293,13 +293,13 @@ Mycobacterium kansasii ATCC 12478
 Mycobacterium leprae Br4923
 Mycobacterium leprae TN
 Mycobacterium liflandii 128FXT
-"Mycobacterium marinum M, ATCC BAA-535"
+Mycobacterium marinum M, ATCC BAA-535
 Mycobacterium smegmatis JS623
 Mycobacterium smegmatis MC2 155
 Mycobacterium tuberculosis CCDC5079
 Mycobacterium tuberculosis CCDC5180
 Mycobacterium tuberculosis CDC1551
-"Mycobacterium tuberculosis Erdman, ATCC 35801"
+Mycobacterium tuberculosis Erdman, ATCC 35801
 Mycobacterium tuberculosis F11 (ExPEC)
 Mycobacterium tuberculosis H37Ra
 Mycobacterium tuberculosis H37Rv
@@ -312,23 +312,23 @@ Mycobacterium tuberculosis UT205
 Nocardiopsis alba ATCC BAA-2165
 Propionibacterium acnes C1
 Rhodococcus equi 103S
-"Slackia heliotrinireducens RHS 1, DSM 20476"
+Slackia heliotrinireducens RHS 1, DSM 20476
 Streptomyces sp. PAMC26508
 Tropheryma whipplei TW08/27
 Tropheryma whipplei Twist
 Actinobaculum schaalii CCUG 27420
-"Arcanobacterium haemolyticum CCM, DSM 20595"
-"Atopobium parvulum IPP 1246, DSM 20469"
+Arcanobacterium haemolyticum CCM, DSM 20595
+Atopobium parvulum IPP 1246, DSM 20469
 Corynebacterium atypicum R2070
-"Eggerthella lenta VPI 0255, DSM 2243"
-"Gordonia bronchialis 3410, DSM 43247"
-"Olsenella uli VPI, DSM 7084"
-"Segniliparus rotundus CDC 1076, DSM 44985"
+Eggerthella lenta VPI 0255, DSM 2243
+Gordonia bronchialis 3410, DSM 43247
+Olsenella uli VPI, DSM 7084
+Segniliparus rotundus CDC 1076, DSM 44985
 Bifidobacterium animalis lactis AD011
 Bifidobacterium animalis lactis CNCM I-2494
 Bifidobacterium bifidum S17
 Bifidobacterium breve S27
-"Gordonibacter pamelaeae 7-10-1-bT, DSM 19378"
+Gordonibacter pamelaeae 7-10-1-bT, DSM 19378
 Bifidobacterium dentium Bd1
 Propionibacterium propionicum F0230a
 Rothia dentocariosa ATCC 17931
@@ -345,11 +345,11 @@ Propionibacterium acnes KPA171202
 Propionibacterium acnes SK137
 Bifidobacterium breve ACS-071-V-Sch8b
 Bifidobacterium longum longum JDM301
-"Corynebacterium aurimucosum CN-1, ATCC 700975"
+Corynebacterium aurimucosum CN-1, ATCC 700975
 Mycobacterium massiliense GO 06
-"Cryptobacterium curtum 12-3, DSM 15641"
-"Coriobacterium glomerans PW2, DSM 20642"
-"Tsukamurella paurometabola 33, DSM 20162"
+Cryptobacterium curtum 12-3, DSM 15641
+Coriobacterium glomerans PW2, DSM 20642
+Tsukamurella paurometabola 33, DSM 20162
 Bifidobacterium adolescentis ATCC 15703
 Bifidobacterium animalis lactis BB-12
 Bifidobacterium animalis lactis DSM 10140
@@ -366,7 +366,7 @@ Thermobifida fusca YX
 Arthrobacter nitroguajacolicus Rue61a
 Frankia alni ACN14a
 Nocardia brasiliensis ATCC 700358
-"Gardnerella vaginalis 317, ATCC 14019"
+Gardnerella vaginalis 317, ATCC 14019
 Gardnerella vaginalis 409-05
 Mycobacterium tuberculosis Korean KIT87190
 Bifidobacterium breve JCM 7019
@@ -449,32 +449,32 @@ Corynebacterium glutamicum Nakagawa ATCC 13032
 Corynebacterium glutamicum R
 Corynebacterium variabile DSM 44702
 Rhodococcus pyridinivorans SB3094
-"Actinosynnema mirum 101, DSM 43827"
-"Xylanimonas cellulosilytica XIL07, DSM 15894"
+Actinosynnema mirum 101, DSM 43827
+Xylanimonas cellulosilytica XIL07, DSM 15894
 Nocardia nova SH22a
-"Amycolatopsis japonica MG417-CF17, DSM 44213"
+Amycolatopsis japonica MG417-CF17, DSM 44213
 Corynebacterium maris DSM 45190
-"Corynebacterium halotolerans YIM 70093, DSM 44683"
+Corynebacterium halotolerans YIM 70093, DSM 44683
 Ilumatobacter coccineum YM16-304
 Mycobacterium vanbaalenii PYR-1
 Microlunatus phosphovorus NM-1
 Actinoplanes missouriensis NBRC 102363
-"Amycolatopsis mediterranei S699, ATCC 13685"
+Amycolatopsis mediterranei S699, ATCC 13685
 Amycolicicoccus subflavus DQS3-9A1
 Arthrobacter chlorophenolicus A6
 Arthrobacter phenanthrenivorans Sphe3
 Arthrobacter sp. FB24
-"Brachybacterium faecium 6-10, DSM 4810"
-"Catenulispora acidiphila ID139908, DSM 44928"
-"Cellulomonas fimi NRS 133, ATCC 484"
-"Cellulomonas flavigena 134, DSM 20109"
-"Conexibacter woesei ID131577, DSM 14684"
+Brachybacterium faecium 6-10, DSM 4810
+Catenulispora acidiphila ID139908, DSM 44928
+Cellulomonas fimi NRS 133, ATCC 484
+Cellulomonas flavigena 134, DSM 20109
+Conexibacter woesei ID131577, DSM 14684
 Corynebacterium efficiens YS-314
 Corynebacterium terpenotabidum Y-11
-"Geodermatophilus obscurus G-20, DSM 43160"
-"Gordonia polyisoprenivorans VH2, DSM 44266"
-"Kitasatospora setae KM-6054, NBRC 14216"
-"Kribbella flavida IFO 14399, DSM 17836"
+Geodermatophilus obscurus G-20, DSM 43160
+Gordonia polyisoprenivorans VH2, DSM 44266
+Kitasatospora setae KM-6054, NBRC 14216
+Kribbella flavida IFO 14399, DSM 17836
 Kutzneria albida DSM 43870
 Micrococcus luteus NCTC 2665
 Micromonospora aurantiaca ATCC 27029
@@ -482,21 +482,21 @@ Micromonospora sp. L5
 Nocardiopsis dassonvillei dassonvillei DSM 43111
 Rhodococcus erythropolis R138
 Rubrobacter xylanophilus DSM 9941
-"Stackebrandtia nassauensis LLR-40K-21, DSM 44728"
+Stackebrandtia nassauensis LLR-40K-21, DSM 44728
 Streptomyces avermitilis MA-4680
 Streptomyces bingchenggensis BCW-1
 Streptomyces cattleya DSM 46488
 Streptomyces cattleya NRRL 8057
 Streptomyces coelicolor A3(2)
 Streptomyces collinus Tu 365
-"Streptomyces flavogriseus IAF 45 CD, ATCC 33331"
+Streptomyces flavogriseus IAF 45 CD, ATCC 33331
 Streptomyces griseus griseus NBRC 13350
 Streptomyces lividans TK24
 Streptomyces rapamycinicus NRRL 5491
 Streptomyces scabiei 87.22
 Streptomyces sp. Tu6071
-"Streptomyces venezuelae Shinobu 719, ATCC 10712"
-"Streptosporangium roseum NI 9100, DSM 43021"
+Streptomyces venezuelae Shinobu 719, ATCC 10712
+Streptosporangium roseum NI 9100, DSM 43021
 Arthrobacter aurescens TC1
 Nocardioides sp. JS614
 Rhodococcus jostii RHA1
@@ -504,11 +504,11 @@ Saccharopolyspora erythraea NRRL 2338
 Streptomyces sp. SirexAA-E
 Streptomyces violaceusniger Tu 4113
 Rhodococcus erythropolis CCM2595
-"Thermovibrio ammonificans HB-1, DSM 15698"
-"Desulfurobacterium thermolithotrophum BSA, DSM 11699"
-"Thermocrinis albus HI 11/12, DSM 14484"
+Thermovibrio ammonificans HB-1, DSM 15698
+Desulfurobacterium thermolithotrophum BSA, DSM 11699
+Thermocrinis albus HI 11/12, DSM 14484
 Hydrogenobaculum sp. Y04AAS1
-"Thermocrinis ruber OC 14/7/2, DSM 23557"
+Thermocrinis ruber OC 14/7/2, DSM 23557
 Persephonella marina EX-H1
 Sulfurihydrogenibium azorense Az-Fu1
 Hydrogenobaculum sp. SHO
@@ -516,53 +516,53 @@ Hydrogenobaculum sp. SN
 Hydrogenobaculum sp. 3684
 Hydrogenobaculum sp. HO
 Aquifex aeolicus VF5
-"Hydrogenobacter thermophilus TK-6, DSM 6534"
-"Hydrogenobacter thermophilus TK-6, DSM 6534"
+Hydrogenobacter thermophilus TK-6, DSM 6534
+Hydrogenobacter thermophilus TK-6, DSM 6534
 Sulfurihydrogenibium sp. YO3AOP1
-"Chthonomonas calidirosea T49, DSM 23976"
+Chthonomonas calidirosea T49, DSM 23976
 Fimbriimonas ginsengisoli Gsoil 348
 Fimbriimonas ginsengisoli Gsoil 348
 Flavobacterium indicum GPTSA100-9
 Zunongwangia profunda SM-A87
-"Emticicia oligotrophica GPTSA100-15, DSM 17448"
-"Fluviicola taffensis RW262, DSM 16823"
+Emticicia oligotrophica GPTSA100-15, DSM 17448
+Fluviicola taffensis RW262, DSM 16823
 Spirosoma linguale DSM 74
 Flavobacterium columnare ATCC 49512
-"Runella slithyformis LSU4, DSM 19594"
+Runella slithyformis LSU4, DSM 19594
 Cytophaga hutchinsonii ATCC 33406
-"Rhodothermus marinus R-10, DSM 4252"
+Rhodothermus marinus R-10, DSM 4252
 Croceibacter atlanticus HTCC2559
 Donghaeana dokdonensis DSW-6
 Gramella forsetii KT0803
 Polaribacter sp. MED152
 Psychroflexus torquis ATCC 700755
 Robiginitalea biformata HTCC2501
-"Aequorivita sublithincola QSSC9-3, DSM 14238"
-"Belliella baltica BA134, DSM 15883"
-"Echinicola vietnamensis KMM 6221, DSM 17526"
-"Flexibacter litoralis Fx l1, DSM 6794"
+Aequorivita sublithincola QSSC9-3, DSM 14238
+Belliella baltica BA134, DSM 15883
+Echinicola vietnamensis KMM 6221, DSM 17526
+Flexibacter litoralis Fx l1, DSM 6794
 Owenweeksia hongkongensis DSM 17368
-"Muricauda ruestringensis B1, DSM 13258"
+Muricauda ruestringensis B1, DSM 13258
 Riemerella anatipestifer CH3
-"Bacteroides salanitronis BL78, DSM 18170"
-"Barnesiella viscericola C46, DSM 18177"
+Bacteroides salanitronis BL78, DSM 18170
+Barnesiella viscericola C46, DSM 18177
 Ornithobacterium rhinotracheale DSM 15997
-"Riemerella anatipestifer A350/72, DSM 15868"
-"Riemerella anatipestifer A350/72, DSM 15868"
+Riemerella anatipestifer A350/72, DSM 15868
+Riemerella anatipestifer A350/72, DSM 15868
 Porphyromonas gingivalis ATCC 33277
 Porphyromonas gingivalis TDC60
 Porphyromonas gingivalis W83
-"Leadbetterella byssophila 4M15, DSM 17132"
+Leadbetterella byssophila 4M15, DSM 17132
 Bacteroides xylanisolvens XB1A
 Bacteroides thetaiotaomicron VPI-5482
 Bacteroides vulgatus ATCC 8482
-"Cyclobacterium marinum Raj, DSM 745"
+Cyclobacterium marinum Raj, DSM 745
 Flavobacterium branchiophilum FL-15
 Salinibacter ruber M8
 Zobellia galactanivorans DsijT
 Flavobacterium psychrophilum JIP02/86
 Maribacter sp. HTCC2170
-"Flavobacterium johnsoniae UW101, ATCC 17061"
+Flavobacterium johnsoniae UW101, ATCC 17061
 Capnocytophaga canimorsus Cc5
 Blattabacterium sp. (Blaberus giganteus)
 Candidatus Amoebophilus asiaticus 5a2
@@ -573,18 +573,18 @@ Candidatus Sulcia muelleri DMIN
 Candidatus Sulcia muelleri GWSS
 Candidatus Sulcia muelleri SMDSEM
 Candidatus Uzinura diaspidicola ASNER
-"Porphyromonas asaccharolytica VPI 4198, DSM 20707"
+Porphyromonas asaccharolytica VPI 4198, DSM 20707
 Prevotella intermedia 17
 Prevotella ruminicola 23
 Riemerella anatipestifer RA-CH-1
-"Alistipes finegoldii AHN 2437, DSM 17242"
-"Capnocytophaga ochracea VPI 2845, DSM 7271"
-"Odoribacter splanchnicus 1651/6, DSM 20712"
-"Weeksella virosa 9751, DSM 16922"
+Alistipes finegoldii AHN 2437, DSM 17242
+Capnocytophaga ochracea VPI 2845, DSM 7271
+Odoribacter splanchnicus 1651/6, DSM 20712
+Weeksella virosa 9751, DSM 16922
 Prevotella denticola F0289
 Prevotella melaninogenica ATCC 25845
 Prevotella sp. F0039
-"Prevotella dentalis ES 2772, DSM 3688"
+Prevotella dentalis ES 2772, DSM 3688
 Blattabacterium sp. Bge
 Blattabacterium sp. BPLAN
 Bacteroides fragilis 638R
@@ -592,13 +592,13 @@ Bacteroides fragilis NCTC 9343
 Bacteroides fragilis YCH46
 Parabacteroides distasonis ATCC 8503
 Tannerella forsythensis ATCC 43037
-"Bacteroides helcogenes P 36-108, DSM 20613"
+Bacteroides helcogenes P 36-108, DSM 20613
 Rhodothermus marinus SG0.5JP17-172
 Endosymbiont of Llaveia axin axin
 Candidatus Sulcia muelleri PSPU
-"Cellulophaga algicola IC166, DSM 14237"
+Cellulophaga algicola IC166, DSM 14237
 Saprospira grandis Lewin
-"Cellulophaga lytica LIM-21, DSM 7489"
+Cellulophaga lytica LIM-21, DSM 7489
 Bacteroides sp. CF50
 Blattabacterium sp. (Blatta orientalis) Tarazona
 Blattabacterium sp. (Mastotermes darwiniensis) MADAR
@@ -619,21 +619,21 @@ Riemerella anatipestifer RA-GD
 Rikenellaceae bacterium M3
 Sphingobacterium sp. 21
 Sphingobacterium sp. ML3W
-"Dyadobacter fermentans NS114, DSM 18053"
-"Paludibacter propionicigenes WB4, DSM 17365"
-"Salinibacter ruber M31, DSM 13855"
-"Marivirga tractuosa H-43, DSM 4126"
+Dyadobacter fermentans NS114, DSM 18053
+Paludibacter propionicigenes WB4, DSM 17365
+Salinibacter ruber M31, DSM 13855
+Marivirga tractuosa H-43, DSM 4126
 Lacinutrix algicola 5H-3-7-4
 Krokinobacter diaphorus 4H-3-7-5
-"Haliscomenobacter hydrossis O, DSM 1100"
-"Chitinophaga pinensis UQM 2034, DSM 2588"
-"Niabella soli JS13-8, DSM 19437"
-"Niastella koreensis GR20-10, DSM 17620"
-"Pedobacter heparinus HIM 762-3, DSM 2366"
-"Pedobacter saltans Steyn 113, DSM 12145"
-"Solitalea canadensis USAM 9D, DSM 3403"
+Haliscomenobacter hydrossis O, DSM 1100
+Chitinophaga pinensis UQM 2034, DSM 2588
+Niabella soli JS13-8, DSM 19437
+Niastella koreensis GR20-10, DSM 17620
+Pedobacter heparinus HIM 762-3, DSM 2366
+Pedobacter saltans Steyn 113, DSM 12145
+Solitalea canadensis USAM 9D, DSM 3403
 Flavobacterium psychrophilum CSF259-93
-"Caldisericum exile AZM16c01, NBRC 104410"
+Caldisericum exile AZM16c01, NBRC 104410
 Candidatus Saccharimonas aalborgensis
 Chlamydia psittaci 84/55
 Chlamydia psittaci CP3
@@ -690,7 +690,7 @@ Chlamydophila psittaci Mat116
 Waddlia chondrophila WSU 86-1044
 Chlamydia muridarum Nigg 2 MCR
 Chlamydophila pneumoniae J138
-"Simkania negevensis Z, ATCC VR-1471"
+Simkania negevensis Z, ATCC VR-1471
 Chlamydia pecorum P787
 Chlamydia pecorum PV3056/3
 Chlamydia pecorum W73
@@ -751,16 +751,16 @@ Pelodictyon luteolum DSM 273
 Chlorobium phaeobacteroides BS1
 Chlorobium phaeovibrioides DSM 265
 Chloroherpeton thalassium ATCC 35110
-"Prosthecochloris aestuarii SK413, DSM 271"
+Prosthecochloris aestuarii SK413, DSM 271
 Pelodictyon phaeoclathratiforme BU-1
 Dehalococcoides mccartyi DCMB5
 Dehalococcoides mccartyi CBDB1
-"Caldilinea aerophila STL-6-O1, DSM 14535"
+Caldilinea aerophila STL-6-O1, DSM 14535
 Chloroflexus aggregans DSM 9485
 Chloroflexus aurantiacus J-10-fl
 Chloroflexus sp. Y-400-fl
 Herpetosiphon aurantiacus DSM 785
-"Roseiflexus castenholzii HLO8, DSM 13941"
+Roseiflexus castenholzii HLO8, DSM 13941
 Dehalococcoides mccartyi 195
 Dehalococcoides mccartyi BAV1
 Dehalococcoides mccartyi GT
@@ -771,8 +771,8 @@ Roseiflexus sp. RS-1
 Dehalococcoides mccartyi BTF08
 Dehalococcoides mccartyi GY50
 Thermomicrobium roseum DSM 5159
-"Sphaerobacter thermophilus 4ac11, DSM 20745"
-"Desulfurispirillum indicum S5, DSM 22839"
+Sphaerobacter thermophilus 4ac11, DSM 20745
+Desulfurispirillum indicum S5, DSM 22839
 Candidatus Cloacamonas acidaminovorans
 Synechococcus sp. PCC 6312
 Anabaena sp. 90
@@ -785,7 +785,7 @@ Halothece sp. PCC 7418
 Synechococcus elongatus PCC 6301
 Synechococcus elongatus PCC 7942
 Synechocystis sp. PCC 6803
-"Synechocystis sp. GT-S, PCC 6803"
+Synechocystis sp. GT-S, PCC 6803
 Synechocystis sp. PCC 6803
 Microcystis aeruginosa NIES-843
 Gloeocapsa sp. PCC 7428
@@ -821,7 +821,7 @@ Gloeobacter violaceus PCC 7421
 Nostoc punctiforme PCC 73102
 Synechococcus sp. PCC 7002
 Acaryochloris marina MBIC11017
-"Cyanothece sp. BH68, ATCC 51142"
+Cyanothece sp. BH68, ATCC 51142
 Prochlorococcus marinus MIT 9211
 Prochlorococcus marinus MIT 9215
 Prochlorococcus marinus MIT 9312
@@ -844,9 +844,9 @@ Nodularia spumigena CCY9414
 Pseudanabaena sp. PCC 7367
 Stanieria cyanosphaera PCC 7437
 Synechococcus sp. PCC 7502
-"Synechocystis sp. PCC 6803, GT-I"
-"Synechocystis sp. PCC 6803, PCC-N"
-"Synechocystis sp. PCC 6803, PCC-P"
+Synechocystis sp. PCC 6803, GT-I
+Synechocystis sp. PCC 6803, PCC-N
+Synechocystis sp. PCC 6803, PCC-P
 Thermosynechococcus elongatus NK55
 Cyanobacterium sp. UCYN-A
 Chroococcidiopsis thermalis PCC 7203
@@ -854,99 +854,99 @@ Cylindrospermum stagnale PCC 7417
 Microcoleus sp. PCC 7113
 Oscillatoria acuminata PCC 6304
 Oscillatoria nigro-viridis PCC 7112
-"Calditerrivibrio nitroreducens Yu37-1, DSM 19672"
-"Deferribacter desulfuricans SSM1, DSM 14783"
-"Flexistipes sinusarabici MAS10, DSM 4947"
-"Denitrovibrio acetiphilus N2460, DSM 12809"
-"Marinithermus hydrothermalis T1, DSM 14884"
-"Oceanithermus profundus 506, DSM 14977"
+Calditerrivibrio nitroreducens Yu37-1, DSM 19672
+Deferribacter desulfuricans SSM1, DSM 14783
+Flexistipes sinusarabici MAS10, DSM 4947
+Denitrovibrio acetiphilus N2460, DSM 12809
+Marinithermus hydrothermalis T1, DSM 14884
+Oceanithermus profundus 506, DSM 14977
 Deinococcus geothermalis DSM 11300
 Thermus thermophilus JL-18
-"Truepera radiovictrix RQ-24, DSM 17093"
-"Meiothermus ruber 21, DSM 1279"
-"Meiothermus silvanus VI-R2, DSM 9946"
+Truepera radiovictrix RQ-24, DSM 17093
+Meiothermus ruber 21, DSM 1279
+Meiothermus silvanus VI-R2, DSM 9946
 Thermus oshimai JL-2
 Thermus sp. CCB_US3_UF1
-"Thermus scotoductus SA-01, ATCC 700910"
+Thermus scotoductus SA-01, ATCC 700910
 Thermus thermophilus HB8
 Thermus thermophilus SG0.5JP17-16
 Thermus thermophilus HB27
-"Deinococcus proteolyticus MRP, DSM 20540"
+Deinococcus proteolyticus MRP, DSM 20540
 Meiothermus ruber DSM 1279
-"Deinococcus gobiensis I-0, DSM 21396"
+Deinococcus gobiensis I-0, DSM 21396
 Deinococcus deserti VCD115
-"Deinococcus maricopensis LB-34, DSM 21211"
-"Deinococcus peraridilitoris KR-200, DSM 19664"
+Deinococcus maricopensis LB-34, DSM 21211
+Deinococcus peraridilitoris KR-200, DSM 19664
 Deinococcus radiodurans ATCC BAA-816
-"Dictyoglomus thermophilum H-6-12, ATCC 35947"
+Dictyoglomus thermophilum H-6-12, ATCC 35947
 Dictyoglomus turgidum DSM 6724
 Candidatus Endomicrobium sp. Rs-D17
 Elusimicrobium minutum Pei191
-"Fibrobacter succinogenes succinogenes S85, ATCC 19169"
-"Fibrobacter succinogenes succinogenes S85, ATCC 19169"
-"Desulfosporosinus acidiphilus SJ4, DSM 22704"
+Fibrobacter succinogenes succinogenes S85, ATCC 19169
+Fibrobacter succinogenes succinogenes S85, ATCC 19169
+Desulfosporosinus acidiphilus SJ4, DSM 22704
 Exiguobacterium sp. ZWU0009
-"Desulfotomaculum gibsoniae Groll, DSM 7213"
-"Desulfotomaculum kuznetsovii 17, DSM 6115"
-"Desulfotomaculum carboxydivorans CO-1-SRB, DSM 14880"
-"Desulfotomaculum ruminis DL, DSM 2154"
-"Desulfotomaculum acetoxidans 5575, DSM 771"
-"Acetohalobium arabaticum Z-7288, DSM 5501"
-"Kyrpidia tusciae T2, DSM 2912"
-"Halobacteroides halobius MD-1, DSM 5150"
-"Thermosediminibacter oceani JW/IW-1228P, DSM 16646"
+Desulfotomaculum gibsoniae Groll, DSM 7213
+Desulfotomaculum kuznetsovii 17, DSM 6115
+Desulfotomaculum carboxydivorans CO-1-SRB, DSM 14880
+Desulfotomaculum ruminis DL, DSM 2154
+Desulfotomaculum acetoxidans 5575, DSM 771
+Acetohalobium arabaticum Z-7288, DSM 5501
+Kyrpidia tusciae T2, DSM 2912
+Halobacteroides halobius MD-1, DSM 5150
+Thermosediminibacter oceani JW/IW-1228P, DSM 16646
 Candidatus Desulforudis audaxviator MP104C
 Bacillus selenitireducens MLS10
 Clostridium thermocellum ATCC 27405
 Clostridium sticklandii DSM 519
 Ammonifex degensii KC4
-"Anoxybacillus flavithermus WK1, DSM 2641"
+Anoxybacillus flavithermus WK1, DSM 2641
 Caldanaerobacter subterraneus tengcongensis MB4T
-"Caldicellulosiruptor bescii Z-1320, DSM 6725"
-"Carboxydothermus hydrogenoformans Z-2901, DSM 6008"
+Caldicellulosiruptor bescii Z-1320, DSM 6725
+Carboxydothermus hydrogenoformans Z-2901, DSM 6008
 Geobacillus sp. Y412MC52
 Thermoanaerobacter wiegelii Rt8.B1
 Caldicellulosiruptor owensensis OL
 Heliobacterium modesticaldum Ice1
-"Desulfitobacterium dehalogenans JW/IU-DC1, ATCC 51507"
+Desulfitobacterium dehalogenans JW/IU-DC1, ATCC 51507
 Alkaliphilus oremlandii OhILAs
 Halanaerobium hydrogenoformans
 Halothermothrix orenii H 168
 Natranaerobius thermophilus JW/NM-WN-LF
-"Thermoanaerobacter brockii finnii Ako-1, DSM 3389"
-"Alicyclobacillus acidocaldarius acidocaldarius 104-IA, DSM 446"
+Thermoanaerobacter brockii finnii Ako-1, DSM 3389
+Alicyclobacillus acidocaldarius acidocaldarius 104-IA, DSM 446
 Alicyclobacillus acidocaldarius acidocaldarius Tc-4-1
 Caldicellulosiruptor hydrothermalis 108
-"Caldicellulosiruptor kristjanssonii 177R1B, DSM 12137"
-"Caldicellulosiruptor lactoaceticus 6A, DSM 9545"
+Caldicellulosiruptor kristjanssonii 177R1B, DSM 12137
+Caldicellulosiruptor lactoaceticus 6A, DSM 9545
 Caldicellulosiruptor saccharolyticus DSM 8903
 Exiguobacterium sp. AT1b
 Geobacillus sp. Y4.1MC1
 Geobacillus sp. Y412MC61
 Geobacillus thermoleovorans CCB_US3_UF5
 Paenibacillus lautus Y412MC10
-"Thermoanaerobacter mathranii mathranii A3, DSM 11426"
-"Thermodesulfobium narugense Na82, DSM 14796"
+Thermoanaerobacter mathranii mathranii A3, DSM 11426
+Thermodesulfobium narugense Na82, DSM 14796
 Sulfobacillus acidophilus TPY
-"Thermoanaerobacterium saccharolyticum JW/SL-YS485, DSM 8691"
+Thermoanaerobacterium saccharolyticum JW/SL-YS485, DSM 8691
 Oceanobacillus iheyensis HTE831
 Carnobacterium sp. 17-4
-"Eubacterium acidaminophilum al-2, DSM 3953"
-"Acetobacterium woodii WB1, DSM 1030"
-"Thermacetogenium phaeum PB, DSM 12270"
-"Cellulosilyticum lentocellum RHM5, DSM 5427"
-"Desulfitobacterium metallireducens 853-15A, DSM 15288"
-"Halanaerobium praevalens GSL, DSM 2228"
+Eubacterium acidaminophilum al-2, DSM 3953
+Acetobacterium woodii WB1, DSM 1030
+Thermacetogenium phaeum PB, DSM 12270
+Cellulosilyticum lentocellum RHM5, DSM 5427
+Desulfitobacterium metallireducens 853-15A, DSM 15288
+Halanaerobium praevalens GSL, DSM 2228
 Desulfitobacterium dichloroeliminans LMG P-21439
 Clostridium perfringens SM101
 Clostridium sp. M2/40
 Syntrophothermus lipocalidus DSM 12680
-"Lactobacillus reuteri F275, JCM 1112"
-"Lactobacillus reuteri F275, JCM 1112"
+Lactobacillus reuteri F275, JCM 1112
+Lactobacillus reuteri F275, JCM 1112
 Lactobacillus fermentum IFO 3956
-"Lactobacillus reuteri SD2112, ATCC 55730"
+Lactobacillus reuteri SD2112, ATCC 55730
 Lactobacillus rhamnosus Lc 705
-"Clostridium acidurici 9a, DSM 604"
+Clostridium acidurici 9a, DSM 604
 Listeria monocytogenes Lm60
 Butyrivibrio proteoclasticus B316
 Ruminococcus albus 7
@@ -959,7 +959,7 @@ Streptococcus thermophilus ASCC 1275
 Enterococcus faecium NRRL B-2354
 Bacillus cereus ATCC 10987
 Geobacillus kaustophilus HTA426
-"Thermaerobacter marianensis 7p75a, DSM 12885"
+Thermaerobacter marianensis 7p75a, DSM 12885
 Thermoanaerobacter sp. X514
 Staphylococcus xylosus HKUOPL8
 Clostridiales sp. SS3/4
@@ -974,7 +974,7 @@ Roseburia intestinalis M50/1
 Lactobacillus fermentum CECT 5716
 Lactobacillus salivarius CECT 5713
 Lactobacillus rhamnosus GG
-"Lactobacillus rhamnosus GG, ATCC 53103"
+Lactobacillus rhamnosus GG, ATCC 53103
 Eubacterium rectale ATCC 33656
 Lactobacillus gasseri ATCC 33323
 Eubacterium eligens ATCC 27750
@@ -998,7 +998,7 @@ Listeria monocytogenes 4b CLIP 80459
 Listeria monocytogenes Finland 1988
 Listeria monocytogenes FSL R2-561
 Listeria monocytogenes HCC23
-"Listeria monocytogenes J0161, FSL R2-499"
+Listeria monocytogenes J0161, FSL R2-499
 Listeria monocytogenes J1-220
 Listeria monocytogenes J1816
 Listeria monocytogenes M7
@@ -1008,7 +1008,7 @@ Listeria monocytogenes serotype 7 SLCC 2482
 Listeria monocytogenes SLCC 2378
 Listeria monocytogenes SLCC 2540
 Listeria monocytogenes SLCC 7179
-"Listeria welshimeri sv 6b, SLCC5334"
+Listeria welshimeri sv 6b, SLCC5334
 Listeria monocytogenes EGD-e
 Clostridium botulinum E3 Alaska E43
 Listeria monocytogenes 4b F2365
@@ -1021,21 +1021,21 @@ Clostridium acetobutylicum ATCC 824
 Clostridium beijerinckii NCIMB 8052
 Clostridium botulinum BKT015925
 Clostridium botulinum BoNT/A3 Loch Maree
-"Thermoanaerobacter pseudethanolicus 39E, ATCC 33223"
+Thermoanaerobacter pseudethanolicus 39E, ATCC 33223
 Clostridium kluyveri DSM 555
 Clostridium kluyveri NBRC 12016
-"Thermoanaerobacter italicus Ab9, DSM 9252"
+Thermoanaerobacter italicus Ab9, DSM 9252
 Geobacillus thermodenitrificans NG80-2
 Moorella thermoacetica ATCC 39073
 Desulfotomaculum reducens MI-1
-"Thermoanaerobacterium xylanolyticum LX-11, DSM 7097"
+Thermoanaerobacterium xylanolyticum LX-11, DSM 7097
 Bacillus halodurans C-125
 Pediococcus pentosaceus ATCC 25745
 Selenomonas ruminantium lactilytica TAM6421
 Enterococcus faecalis 62
-"Desulfosporosinus meridiei S10, DSM 13257"
+Desulfosporosinus meridiei S10, DSM 13257
 Lactobacillus johnsonii DPC 6026
-"Paenibacillus larvae larvae 4-309, DSM 25430"
+Paenibacillus larvae larvae 4-309, DSM 25430
 Bacillus anthracis A0248
 Bacillus thuringiensis BMB171
 Bacillus thuringiensis sv chinensis CT-43
@@ -1126,7 +1126,7 @@ Staphylococcus epidermidis RP62A
 Staphylococcus pseudintermedius ED99
 Staphylococcus pseudintermedius HKU10-03
 Streptococcus agalactiae 2603V/R
-"Streptococcus agalactiae A909, ATCC BAA-1138"
+Streptococcus agalactiae A909, ATCC BAA-1138
 Streptococcus agalactiae GD201008-001
 Streptococcus agalactiae NEM316
 Streptococcus agalactiae SA20-06
@@ -1146,12 +1146,12 @@ Streptococcus mutans UA159
 Streptococcus oralis Uo5
 Streptococcus parasanguinis ATCC 15912
 Streptococcus pasteurianus ATCC 43144
-"Streptococcus pneumoniae 23F ST81, ATCC 700669"
+Streptococcus pneumoniae 23F ST81, ATCC 700669
 Streptococcus pneumoniae CGSP14
 Streptococcus pneumoniae Hungary19A-6
-"Streptococcus pneumoniae INV104B (ST 227, serotype 1)"
-"Streptococcus pneumoniae INV200 (ST 9, serotype 14)"
-"Streptococcus pneumoniae OXC141 (ST 180, serotype 3)"
+Streptococcus pneumoniae INV104B (ST 227, serotype 1)
+Streptococcus pneumoniae INV200 (ST 9, serotype 14)
+Streptococcus pneumoniae OXC141 (ST 180, serotype 3)
 Streptococcus pneumoniae SPN032672
 Streptococcus pneumoniae SPN033038
 Streptococcus pneumoniae SPN034156
@@ -1163,10 +1163,10 @@ Streptococcus pneumoniae ST556
 Streptococcus pneumoniae TCH8431/19A
 Streptococcus pseudopneumoniae IS7493
 Streptococcus pyogenes Alab49
-"Streptococcus pyogenes M18, MGAS8232"
+Streptococcus pyogenes M18, MGAS8232
 Streptococcus pyogenes M3 (SSI-1)
-"Streptococcus pyogenes M3, MGAS315"
-"Streptococcus pyogenes M49, NZ131"
+Streptococcus pyogenes M3, MGAS315
+Streptococcus pyogenes M49, NZ131
 Streptococcus pyogenes MGAS1882
 Streptococcus sp. I-G2
 Streptococcus sp. I-P16
@@ -1182,19 +1182,19 @@ Streptococcus suis S735
 Streptococcus suis SC84
 Streptococcus suis ST3
 Streptococcus uberis 0140J
-"Veillonella parvula Te3, DSM 2008"
-"Anaerococcus prevotii PC 1, DSM 20548"
+Veillonella parvula Te3, DSM 2008
+Anaerococcus prevotii PC 1, DSM 20548
 Staphylococcus aureus NRS 100
 Staphylococcus aureus XN108
 Streptococcus agalactiae COH1
-"Lactobacillus rhamnosus K, ATCC 8530"
+Lactobacillus rhamnosus K, ATCC 8530
 Streptococcus anginosus C1051
 Streptococcus anginosus C238
 Streptococcus intermedius B196
 Streptococcus intermedius C270
 Streptococcus pyogenes MGAS15252
 Acidaminococcus intestini RyC-MR95
-"Roseburia hominis A2-183, DSM 16839"
+Roseburia hominis A2-183, DSM 16839
 Roseburia intestinalis XB6B4
 Streptococcus pneumoniae 70585
 Streptococcus pneumoniae AP200
@@ -1203,8 +1203,8 @@ Streptococcus pneumoniae gamPNI0373
 Streptococcus pneumoniae JJA
 Streptococcus pneumoniae P1031
 Streptococcus pneumoniae Taiwan19F-14
-"Streptococcus pyogenes M1, MGAS5005"
-"Streptococcus pyogenes M28, MGAS6180"
+Streptococcus pyogenes M1, MGAS5005
+Streptococcus pyogenes M28, MGAS6180
 Filifactor alocis ATCC 35896
 Streptococcus constellatus pharyngis C1050
 Streptococcus constellatus pharyngis C232
@@ -1218,7 +1218,7 @@ Aerococcus urinae ACS-120-V-Col10a
 Lactobacillus crispatus ST1
 Lactobacillus johnsonii FI9785
 Staphylococcus lugdunensis HKU09-01
-"Streptococcus dysgalactiae equisimilis D166B, ATCC 12394"
+Streptococcus dysgalactiae equisimilis D166B, ATCC 12394
 Selenomonas sputigena DSM 20758
 Lactobacillus buchneri NRRL B-30929
 Lactobacillus casei ATCC 334
@@ -1233,19 +1233,19 @@ Lactobacillus plantarum WCFS1
 Lactobacillus salivarius salivarius UCC118
 Lactobacillus acidophilus NCFM
 Lactobacillus brevis ATCC 367
-"Enterococcus faecalis OG1RF, ATCC 47077"
+Enterococcus faecalis OG1RF, ATCC 47077
 Enterococcus faecalis V583
 Lysinibacillus sphaericus C3-41
 Streptococcus pneumoniae 670-6B
 Streptococcus pneumoniae D39
 Streptococcus pneumoniae R6
 Streptococcus pneumoniae TIGR4
-"Streptococcus pyogenes M1, GAS SF370"
-"Streptococcus pyogenes M12, MGAS2096"
-"Streptococcus pyogenes M12, MGAS9429"
-"Streptococcus pyogenes M2, MGAS10270"
-"Streptococcus pyogenes M4, MGAS10750"
-"Streptococcus pyogenes M6, MGAS10394"
+Streptococcus pyogenes M1, GAS SF370
+Streptococcus pyogenes M12, MGAS2096
+Streptococcus pyogenes M12, MGAS9429
+Streptococcus pyogenes M2, MGAS10270
+Streptococcus pyogenes M4, MGAS10750
+Streptococcus pyogenes M6, MGAS10394
 Streptococcus pyogenes Manfredo (M5)
 Streptococcus mitis B6
 Streptococcus parasanguinis FW213
@@ -1253,7 +1253,7 @@ Streptococcus salivarius 57.I
 Streptococcus salivarius CCHSS3
 Streptococcus salivarius JIM8777
 Streptococcus sanguinis SK36
-"Acidaminococcus fermentans VR4, DSM 20731"
+Acidaminococcus fermentans VR4, DSM 20731
 Lactococcus lactis lactis KF147
 Bacillus subtilis BSn5
 Bacillus amyloliquefaciens plantarum FZB42
@@ -1282,9 +1282,9 @@ Bacillus thuringiensis Al Hakam
 Bacillus thuringiensis sv konkukian 97-27
 Clostridium botulinum Ba4 657
 Clostridium botulinum BoNT/A1 Hall
-"Clostridium botulinum BoNT/A1, ATCC 19397"
+Clostridium botulinum BoNT/A1, ATCC 19397
 Clostridium botulinum type A - Hall
-"Clostridium ljungdahlii PETC, DSM 13528"
+Clostridium ljungdahlii PETC, DSM 13528
 Clostridium perfringens 13
 Clostridium perfringens ATCC 13124
 Clostridium novyi NT
@@ -1296,7 +1296,7 @@ Caldicellulosiruptor obsidiansis OB47
 Geobacillus sp. C56-T3
 Geobacillus thermoglucosidasius C56-YS93
 Ruminococcus sp. 80/3
-"Clostridium saccharolyticum WM1, DSM 2544"
+Clostridium saccharolyticum WM1, DSM 2544
 Candidatus Arthromitus sp. SFB-mouse-NL
 Lactobacillus helveticus CNRZ32
 Lactobacillus helveticus DPC 4571
@@ -1306,7 +1306,7 @@ Streptococcus thermophilus CNRZ1066
 Streptococcus thermophilus LMD-9
 Streptococcus thermophilus LMG 18311
 Thermincola potens JR
-"Bacillus coagulans 36D1, ATCC PTA-5827"
+Bacillus coagulans 36D1, ATCC PTA-5827
 Amphibacillus xylanus NBRC 15112
 Bacillus amyloliquefaciens CAU-B946
 Bacillus amyloliquefaciens CC178
@@ -1353,7 +1353,7 @@ Carnobacterium sp. WN1359
 Clostridium autoethanogenum DSM 10061
 Clostridium saccharobutylicum DSM 13864
 Clostridium sp. BNL1100
-"Clostridium thermocellum LQ8, DSM 1313"
+Clostridium thermocellum LQ8, DSM 1313
 Coprothermobacter proteolyticus DSM 5265
 Dehalobacter restrictus DSM 9455
 Dehalobacter sp. 11DCA
@@ -1416,13 +1416,13 @@ Listeria monocytogenes WSLC1001
 Listeria monocytogenes WSLC1042
 Lysinibacillus sp. GY32
 Melissococcus plutonius DAT561
-"Oenococcus kitaharae NRIC 0645, DSM 17330"
+Oenococcus kitaharae NRIC 0645, DSM 17330
 Oenococcus oeni PSU-1
 Oscillibacter valericigenes Sjm18-20
 Paenibacillus mucilaginosus KNP414
 Paenibacillus polymyxa CR1
 Paenibacillus polymyxa SQR-21
-"Pediococcus claussenii P06, ATCC BAA-344"
+Pediococcus claussenii P06, ATCC BAA-344
 Pediococcus pentosaceus SL4
 Staphylococcus aureus 08BA02176
 Staphylococcus aureus 2395 USA500
@@ -1493,13 +1493,13 @@ Tepidanaerobacter acetatoxydans Re1
 Tetragenococcus halophilus NBRC 12172
 Thermoanaerobacterium thermosaccharolyticum DSM 571
 Thermoanaerobacterium thermosaccharolyticum M0795
-"Thermobacillus composti KWC4, DSM 18247"
+Thermobacillus composti KWC4, DSM 18247
 Weissella ceti WS74
 Weissella koreensis KACC 15510
-"Mahella australiensis 50-1 BON, DSM 15567"
+Mahella australiensis 50-1 BON, DSM 15567
 Bacillus cereus Q1
 Streptococcus oligofermentans AS 1.3089
-"Exiguobacterium sibiricum 255-15, DSM 17290"
+Exiguobacterium sibiricum 255-15, DSM 17290
 Bacillus subtilis subtilis OH 131.1
 Terribacillus aidingensis MP602
 Bacillus thuringiensis Bt407
@@ -1514,13 +1514,13 @@ Paenibacillus polymyxa E681
 Paenibacillus polymyxa SC2
 Pelosinus sp. UFO1
 Tepidanaerobacter sp. Re1
-"Clostridium clariflavum EBR 45, DSM 19732"
+Clostridium clariflavum EBR 45, DSM 19732
 Desulfitobacterium hafniense DCB-2
-"Ethanoligenens harbinense YUAN-3T, DSM 18485"
+Ethanoligenens harbinense YUAN-3T, DSM 18485
 Pelotomaculum thermopropionicum SI
-"Syntrophobotulus glycolicus FlGlyR, DSM 8271"
-"Syntrophomonas wolfei Goettingen, DSM 2245B"
-"Bacillus amyloliquefaciens Campbell F, DSM 7"
+Syntrophobotulus glycolicus FlGlyR, DSM 8271
+Syntrophomonas wolfei Goettingen, DSM 2245B
+Bacillus amyloliquefaciens Campbell F, DSM 7
 Bacillus amyloliquefaciens IT-45
 Bacillus amyloliquefaciens LL3
 Bacillus amyloliquefaciens TA208
@@ -1530,7 +1530,7 @@ Bacillus anthracis Ames
 Bacillus anthracis Sterne
 Bacillus anthracis STI
 Bacillus atrophaeus 1942
-"Bacillus cellulosilyticus N-4, DSM 2522"
+Bacillus cellulosilyticus N-4, DSM 2522
 Bacillus clausii KSM-K16
 Bacillus coagulans 2-6
 Bacillus lehensis G1
@@ -1540,7 +1540,7 @@ Bacillus megaterium QM B1551
 Bacillus megaterium WSH-002
 Bacillus sp. 1NLA3E
 Bacillus subtilis natto BEST195
-"Bacillus subtilis spizizenii TU-B-10, DSM 15029"
+Bacillus subtilis spizizenii TU-B-10, DSM 15029
 Bacillus subtilis spizizenii W23
 Bacillus subtilis subtilis 168
 Bacillus subtilis subtilis 6051-HGW
@@ -1554,46 +1554,46 @@ Brevibacillus brevis NBRC 100599
 Clostridium acetobutylicum DSM 1731
 Clostridium acetobutylicum EA 2018
 Clostridium cellulolyticum H10
-"Clostridium cellulovorans 743B, ATCC 35296"
+Clostridium cellulovorans 743B, ATCC 35296
 Clostridium pasteurianum BC1
 Clostridium saccharoperbutylacetonicum DSM 14923
 Desulfitobacterium hafniense Y51
-"Desulfosporosinus orientis Singapore I, DSM 765"
+Desulfosporosinus orientis Singapore I, DSM 765
 Geobacillus sp. GHH01
 Halobacillus halophilus DSM 2266
 Listeria innocua Clip11262
-"Listeria seeligeri sv 1/2b, SLCC3954"
+Listeria seeligeri sv 1/2b, SLCC3954
 Paenibacillus mucilaginosus K02
 Paenibacillus terrae HPL-003
-"Sulfobacillus acidophilus NAL, DSM 10332"
+Sulfobacillus acidophilus NAL, DSM 10332
 Symbiobacterium thermophilum IAM 14863
 Bacillus cereus cytotoxis NVH 391-98
 Bacillus pseudofirmus OF4
 Bacillus pumilus SAFR-032
 Clostridium phytofermentans ISDg
-"Ilyobacter polytropus CuHBu1, DSM 2926"
+Ilyobacter polytropus CuHBu1, DSM 2926
 Sebaldella termitidis ATCC 33386
 Fusobacterium nucleatum animalis 7_1
 Fusobacterium nucleatum vincentii 3_1_27
 Fusobacterium sp. 3_1_36A2
 Fusobacterium sp. 4_8
-"Streptobacillus moniliformis 9901, DSM 12112"
-"Leptotrichia buccalis C-1013-b, DSM 1135"
+Streptobacillus moniliformis 9901, DSM 12112
+Leptotrichia buccalis C-1013-b, DSM 1135
 Fusobacterium nucleatum nucleatum ATCC 25586
 Gemmatimonadetes bacterium KBS708
 Gemmatimonas aurantiaca T-27T
-"Ignavibacterium album Mat9-16, JCM 16511"
+Ignavibacterium album Mat9-16, JCM 16511
 Melioribacter roseus P3M
 Thermodesulfovibrio yellowstonii DSM 11347
 Candidatus Nitrospira defluvii
 Leptospirillum ferriphilum ML-04
 Leptospirillum ferriphilum YSK
 Leptospirillum ferrooxidans C2-3
-"Singulisphaera acidiphila MOB10, DSM 18658"
+Singulisphaera acidiphila MOB10, DSM 18658
 Pirellula staleyi DSM 6068
-"Planctomyces limnophilus Mu 290, DSM 3776"
-"Isosphaera pallida IS1B, ATCC 43644"
-"Planctomyces brasiliensis IFAM 1448, DSM 5305"
+Planctomyces limnophilus Mu 290, DSM 3776
+Isosphaera pallida IS1B, ATCC 43644
+Planctomyces brasiliensis IFAM 1448, DSM 5305
 Rhodopirellula baltica SH 1
 Phycisphaera mikurensis NBRC 102666
 Acidithiobacillus ferrooxidans ATCC 23270
@@ -1606,9 +1606,9 @@ Candidatus Paracaedibacter acanthamoebae PRA3
 Campylobacter jejuni jejuni NCTC 11168
 Campylobacter jejuni jejuni 81-176
 Escherichia coli O104:H4 2009EL-2071
-"Desulfovibrio aespoeensis Aspo-2, DSM 10631"
+Desulfovibrio aespoeensis Aspo-2, DSM 10631
 Desulfovibrio vulgaris RCH1
-"Brucella melitensis bv 1, 16M"
+Brucella melitensis bv 1, 16M
 Enterobacteriaceae bacterium FGI 57
 Bdellovibrio bacteriovorus Tiberius
 Oligotropha carboxidovorans OM4
@@ -1620,12 +1620,12 @@ Vibrio cholerae IEC224
 Pseudomonas mendocina ymp
 Thiomicrospira crunogena XCL-2
 Sulfurovum sp. NBC37-1
-"Alteromonas macleodii Deep ecotype, DSM 17117"
-"Nitratifractor salsuginis E9I37-1, DSM 16511"
+Alteromonas macleodii Deep ecotype, DSM 17117
+Nitratifractor salsuginis E9I37-1, DSM 16511
 Psychromonas ingrahamii 37
 Shewanella piezotolerans WP3
 Shewanella sp. W3-18-1
-"Sulfurimonas autotrophica OK10, DSM 16294"
+Sulfurimonas autotrophica OK10, DSM 16294
 Alkalilimnicola ehrlichei MLHE-1
 beta proteobacterium CB
 Dechloromonas aromatica RCB
@@ -1644,9 +1644,9 @@ Aeromonas salmonicida salmonicida A449
 Bacteriovorax marinus SJ
 Francisella philomiragia philomiragia ATCC 25017
 Herminiimonas arsenicoxydans ULPAs1
-"Rahnella aquatilis CIP 78.65, ATCC 33071"
+Rahnella aquatilis CIP 78.65, ATCC 33071
 Vibrio cholerae LMA3894-4
-"Vibrio furnissii 2510/74, NCTC 11218"
+Vibrio furnissii 2510/74, NCTC 11218
 Polynucleobacter necessarius asymbioticus QLW-P1DMWA-1
 Edwardsiella ictaluri 93-146
 Magnetospirillum magneticum AMB-1
@@ -1657,7 +1657,7 @@ Novosphingobium aromaticivorans DSM 12444
 Pseudomonas putida GB-1
 Marinobacter hydrocarbonoclasticus ATCC 49840
 Caulobacter crescentus CB15
-"Desulfobacterium autotrophicum HRM2, DSM 3382"
+Desulfobacterium autotrophicum HRM2, DSM 3382
 Sulfurospirillum barnesii SES-3
 Desulfovibrio magneticus RS-1
 Halorhodospira halophila SL1
@@ -1665,15 +1665,15 @@ Desulfococcus oleovorans Hxd3
 Brevundimonas subvibrioides ATCC 15264
 Cupriavidus metallidurans CH34
 Allochromatium vinosum DSM 180
-"Bordetella petrii Se-1111R, DSM 12804"
+Bordetella petrii Se-1111R, DSM 12804
 Desulfovibrio vulgaris vulgaris DP4
 Magnetospirillum gryphiswaldense MSR-1
 Methylotenera mobilis JLW8
-"Methylotenera versatilis 301, JCM 17579"
+Methylotenera versatilis 301, JCM 17579
 Methylovorus glucosetrophus SIP3-4
 Polaromonas naphthalenivorans CJ2
 Shewanella oneidensis MR-1
-"Tolumonas auensis TA 4, DSM 9187"
+Tolumonas auensis TA 4, DSM 9187
 Thioalkalivibrio sp. K90mix
 Rhodopseudomonas palustris BisA53
 Rhodopseudomonas palustris BisB18
@@ -1682,10 +1682,10 @@ Sphingobium chlorophenolicum L-1
 Xanthobacter autotrophicus Py2
 Leptothrix cholodnii SP-6
 Rhodopseudomonas palustris HaA2
-"Ensifer meliloti AK83, DSM 23913"
+Ensifer meliloti AK83, DSM 23913
 Shewanella sp. ANA-3
 Azospira suillum PS
-"Desulfurella acetivorans A63, DSM 5264"
+Desulfurella acetivorans A63, DSM 5264
 Idiomarina loihiensis L2TR
 Shewanella loihica PV-4
 Vibrio sp. Ex25
@@ -1694,21 +1694,21 @@ Alteromonas macleodii ATCC 27126
 Candidatus Pelagibacter sp. IMCC9063
 Candidatus Pelagibacter ubique SAR11 HTCC1062
 Candidatus Puniceispirillum marinum IMCC1322
-"Desulfovibrio piezophilus C1TLV30, DSM 21447"
+Desulfovibrio piezophilus C1TLV30, DSM 21447
 Erythrobacter litoralis HTCC2594
 Glaciecola nitratireducens FR1064
 Hirschia baltica ATCC 49814
 Hyphomonas neptunium ATCC 15444
 Jannaschia sp. CCS1
 Magnetococcus sp. MC-1
-"Marinobacter adhaerens HP15, DSM 23420"
-"Marinomonas mediterranea MMB-1, ATCC 700492"
+Marinobacter adhaerens HP15, DSM 23420
+Marinomonas mediterranea MMB-1, ATCC 700492
 Myxococcus fulvus HW-1
-"Nitrosococcus oceani C-107, ATCC 19707"
+Nitrosococcus oceani C-107, ATCC 19707
 Parvularcula bermudensis HTCC2503
 Pelagibacterium halotolerans B2
 Phaeobacter gallaeciensis DSM 17395
-"Planktomarina temperata RCA23, DSM 22400"
+Planktomarina temperata RCA23, DSM 22400
 Shewanella baltica BA175
 Shewanella baltica OS117
 Shewanella baltica OS155
@@ -1720,25 +1720,25 @@ Shewanella denitrificans OS217
 Shewanella frigidimarina NCIMB 400
 Shewanella sp. MR-4
 Shewanella sp. MR-7
-"Shewanella woodyi MS32, ATCC 51908"
+Shewanella woodyi MS32, ATCC 51908
 Vibrio sp. EJY3
 Pseudoalteromonas haloplanktis TAC125
 Pusillimonas sp. T7-7
 Rhodobacter sphaeroides KD131
 Shewanella violacea DSS12
 Glaciecola agarilytica 4H-3-7+YE-5
-"Kangiella koreensis SW-125, DSM 16069"
+Kangiella koreensis SW-125, DSM 16069
 Alcanivorax borkumensis SK2
-"Hippea maritima MH2, DSM 10411"
-"Pseudomonas stutzeri AN10, CCUG 29243"
+Hippea maritima MH2, DSM 10411
+Pseudomonas stutzeri AN10, CCUG 29243
 Methylomonas methanica MC09
 Methylococcus capsulatus Bath
-"Sulfurospirillum deleyianum 5175, DSM 6946"
-"Sulfuricurvum kujiense YK-1, DSM 16994"
-"Thiocystis violascens 611, DSM 198"
+Sulfurospirillum deleyianum 5175, DSM 6946
+Sulfuricurvum kujiense YK-1, DSM 16994
+Thiocystis violascens 611, DSM 198
 Aeromonas veronii B565
-"Leisingera methylohalidivorans MB2, DSM 14336"
-"Desulfohalobium retbaense HR100, DSM 5692"
+Leisingera methylohalidivorans MB2, DSM 14336
+Desulfohalobium retbaense HR100, DSM 5692
 Burkholderia pseudomallei BPC006
 Nitrosomonas sp. AL212
 Hyphomicrobium sp. MC1
@@ -1746,7 +1746,7 @@ Candidatus Blochmannia floridanus
 Candidatus Blochmannia vafer BVAF
 Gluconobacter oxydans 621H
 Hyphomicrobium nitrativorans NL23
-"Legionella pneumophila pneumonophila 570-CO-H, ATCC 43290"
+Legionella pneumophila pneumonophila 570-CO-H, ATCC 43290
 Pseudoalteromonas atlantica T6c
 Legionella pneumophila 2300/99 Alcoy
 Legionella pneumophila Corby
@@ -1757,7 +1757,7 @@ Arcobacter butzleri ED-1
 Micavibrio aeruginosavorus ARL-13
 Methylophaga frappieri JAM7
 Methylophaga nitratireducens JAM1
-"Desulfobacca acetoxidans ASRB2, DSM 11109"
+Desulfobacca acetoxidans ASRB2, DSM 11109
 Campylobacter jejuni jejuni S3
 Pseudomonas mendocina NK-01
 Bartonella bacilliformis KC583
@@ -1807,11 +1807,11 @@ Wigglesworthia glossinidia endosymbiont of Glossina brevipalpis
 Wigglesworthia glossinidia endosymbiont of Glossina morsitans
 Wolbachia endosymbiont of Drosophila melanogaster
 Wolbachia endosymbiont TRS of Brugia malayi
-"Salmonella enterica enterica sv Paratyphi A, ATCC 9150"
+Salmonella enterica enterica sv Paratyphi A, ATCC 9150
 Arcobacter butzleri 7h1h
 Campylobacter hominis ATCC BAA-381
 Escherichia coli C ATCC 8739
-"Escherichia fergusonii UMN026, ATCC 35469"
+Escherichia fergusonii UMN026, ATCC 35469
 Salmonella enterica enterica sv. Heidelberg B182
 Shigella flexneri 2a 2457T
 Escherichia coli O150:H5 SE15
@@ -1820,7 +1820,7 @@ Campylobacter concisus 13826
 Campylobacter curvus 525.92
 Psychrobacter arcticus 273-4
 Laribacter hongkongensis HLHK9
-"Zymomonas mobilis mobilis T.H.Delft 1, ATCC 10988"
+Zymomonas mobilis mobilis T.H.Delft 1, ATCC 10988
 Aeromonas hydrophila hydrophila ATCC 7966
 Acinetobacter baylyi ADP1
 Acinetobacter calcoaceticus PHEA-2
@@ -1839,7 +1839,7 @@ Salmonella enterica enterica sv Typhimurium T000240
 Salmonella enterica enterica sv Typhimurium UK-1
 Salmonella enterica enterica sv. Gallinarum RKS5078
 Salmonella enterica sv Dublin CT_02021853
-"Salmonella enterica sv Heidelberg SL476, CVM30485"
+Salmonella enterica sv Heidelberg SL476, CVM30485
 Salmonella enterica sv Newport SL254
 Dyella japonica A8
 Acidiphilium multivorum AIU301
@@ -1847,7 +1847,7 @@ Acidovorax ebreus TPSY
 Asticcacaulis excentricus CB 48
 Castellaniella defragrans 65Phen
 Caulobacter sp. K31
-"Dinoroseobacter shibae DFL-12, DSM 16493"
+Dinoroseobacter shibae DFL-12, DSM 16493
 Gallionella capsiferriformans ES-2
 Halomonas elongata DSM 2581
 Hyphomicrobium denitrificans ATCC 51888
@@ -1855,7 +1855,7 @@ Maricaulis maris MCS10
 Octadecabacter antarcticus 307
 Psychrobacter cryohalolentis K5
 Rhodocista centenaria SW
-"Rhodospirillum rubrum S1, ATCC 11170"
+Rhodospirillum rubrum S1, ATCC 11170
 Saccharophagus degradans 2-40
 Sideroxydans lithotrophicus ES-1
 Thioalkalivibrio sulfidophilus HL-EbGR7
@@ -1878,14 +1878,14 @@ Francisella tularensis mediasiatica FSC147
 Francisella tularensis novicida Fx1
 Francisella tularensis novicida U112
 Francisella tularensis TI0902
-"Francisella tularensis tularensis A.II, Wyoming, WY96-3418"
+Francisella tularensis tularensis A.II, Wyoming, WY96-3418
 Francisella tularensis tularensis CHU S4
 Francisella tularensis tularensis FSC 198
 Francisella tularensis tularensis NE061598
 Janthinobacterium sp. Marseille
 Nitrosomonas eutropha C91
 Roseobacter denitrificans OCh 114
-"Vibrio anguillarum 775, ATCC 68554"
+Vibrio anguillarum 775, ATCC 68554
 Vibrio cholerae M66-2
 Vibrio cholerae MJ-1236
 Vibrio cholerae O395
@@ -1902,7 +1902,7 @@ Acinetobacter baumannii TCDC-AB0715
 Nautilia profundicola Am-H
 Klebsiella pneumoniae NTUH-K2044
 Klebsiella pneumoniae pneumoniae MGH78578
-"Vibrio cholerae O1 bv El Tor, N16961"
+Vibrio cholerae O1 bv El Tor, N16961
 Arcobacter butzleri RM4018
 Arcobacter sp. L
 Delftia acidovorans SPH-1
@@ -1921,7 +1921,7 @@ Yersinia pseudotuberculosis IP 32953
 Pseudomonas aeruginosa PAO1
 Pseudomonas aeruginosa UCBPP-PA14
 Thauera aminoaromatica MZ1T
-"Octadecabacter arcticus 238, DSM 13978"
+Octadecabacter arcticus 238, DSM 13978
 Pelobacter propionicus DSM 2379
 Pelobacter carbinolicus DSM 2380
 Caulobacter crescentus NA1000
@@ -1943,12 +1943,12 @@ Acinetobacter baumannii BJAB0868
 Bdellovibrio bacteriovorus HD100
 Caulobacter segnis ATCC 21756
 Cupriavidus necator JMP134
-"Cupriavidus necator N-1, ATCC 43291"
+Cupriavidus necator N-1, ATCC 43291
 Nitrosomonas europaea ATCC 19718
 Rhodopseudomonas palustris CGA009
 Rhodopseudomonas palustris DX-1
 Shewanella putrefaciens CN-32
-"Chromohalobacter salexigens 1H11, DSM 3043"
+Chromohalobacter salexigens 1H11, DSM 3043
 Pseudomonas entomophila L48
 Pseudomonas syringae pv. actinidia ICMP 9617
 Pseudomonas syringae pv. actinidiae ICMP 18884
@@ -1965,7 +1965,7 @@ Brucella suis bv. 2 PT09143
 Brucella suis bv. 2 Bs364CITA
 Brucella suis bv. 2 PT09172
 Shimwellia blattae DSM 4481
-"Achromobacter xylosoxidans NBRC 15126, ATCC 27061"
+Achromobacter xylosoxidans NBRC 15126, ATCC 27061
 Achromobacter xylosoxidans NH44784-1996
 Acidovorax avenae avenae ATCC 19860
 Acidovorax avenae citrulli AAC00-1
@@ -1991,7 +1991,7 @@ Bordetella parapertussis Bpp5
 Bordetella pertussis CS
 Bordetella pertussis Tohama I
 Brucella abortus A13334
-"Brucella abortus bv 1, 9-941"
+Brucella abortus bv 1, 9-941
 Brucella abortus S19
 Brucella canis ATCC 23365
 Brucella canis HSK A52141
@@ -2001,8 +2001,8 @@ Brucella melitensis M28
 Brucella melitensis M5-90
 Brucella pinnipedialis B2/94
 Brucella suis ATCC 23445
-"Brucella suis bv 1, 1330"
-"Brucella suis bv 1, 1330"
+Brucella suis bv 1, 1330
+Brucella suis bv 1, 1330
 Brucella suis VBI22
 Burkholderia cenocepacia AU 1054
 Burkholderia cenocepacia J2315
@@ -2040,9 +2040,9 @@ Dickeya dadantii Ech703
 Ehrlichia canis Jake
 Ehrlichia chaffeensis Arkansas
 Ehrlichia ruminantium Gardel
-"Ehrlichia ruminantium Welgevonden, ARC-OVI"
-"Ehrlichia ruminantium Welgevonden, CIRAD"
-"Erwinia amylovora Ea273, ATCC 49946"
+Ehrlichia ruminantium Welgevonden, ARC-OVI
+Ehrlichia ruminantium Welgevonden, CIRAD
+Erwinia amylovora Ea273, ATCC 49946
 Erwinia pyrifoliae DSM 12163
 Erwinia tasmaniensis Et1/99
 Escherichia coli O103:H2 12009
@@ -2051,8 +2051,8 @@ Escherichia coli O157:H7 EDL933
 Escherichia coli O83:H1 NRG 857C
 Francisella tularensis holarctica F92
 Francisella tularensis holarctica OSU18
-"Gluconacetobacter diazotrophicus PAl 5, DSM 5601"
-"Gluconacetobacter diazotrophicus PAl 5, DSM 5601"
+Gluconacetobacter diazotrophicus PAl 5, DSM 5601
+Gluconacetobacter diazotrophicus PAl 5, DSM 5601
 Gluconacetobacter xylinus NBRC 3288
 Haemophilus ducreyi 35000HP
 Haemophilus influenzae B 10810
@@ -2067,7 +2067,7 @@ Haemophilus parainfluenzae T3T1
 Helicobacter acinonychis Sheeba
 Helicobacter bizzozeronii CIII-1
 Helicobacter cinaedi PAGU611
-"Helicobacter felis CS1, ATCC 49179"
+Helicobacter felis CS1, ATCC 49179
 Helicobacter mustelae ATCC 43772
 Helicobacter pylori Aklavik117
 Helicobacter pylori Aklavik86
@@ -2146,10 +2146,10 @@ Rickettsia typhi TH1527
 Rickettsia typhi Wilmington
 Salmonella bongori NCTC 12419
 Salmonella bongori sv. 48:z41 RKS3044
-"Salmonella enterica arizonae sv 62:z4,z23 RSK2980"
+Salmonella enterica arizonae sv 62:z4,z23 RSK2980
 Salmonella enterica enterica sv Enteritidis P125109
 Salmonella enterica enterica sv Gallinarum 287/91
-"Salmonella enterica enterica sv Paratyphi B, SPB7"
+Salmonella enterica enterica sv Paratyphi B, SPB7
 Salmonella enterica enterica sv Typhimurium SL1344
 Salmonella enterica enterica sv. Typhi P-stx-12
 Salmonella enterica Paratyphi C RKS4594
@@ -2157,8 +2157,8 @@ Salmonella enterica sv Paratyphi A AKU_12601
 Secondary Endosymbiont of Heteropsylla cubana
 Serratia marcescens FGI94
 Serratia plymuthica AS13
-"Shewanella pealeana ANG-SQ1, ATCC 700345"
-"Shigella boydii BS512, CDC 3083-94"
+Shewanella pealeana ANG-SQ1, ATCC 700345
+Shigella boydii BS512, CDC 3083-94
 Shigella boydii Sb227
 Shigella dysenteriae Sd197
 Shigella flexneri 2002017
@@ -2238,9 +2238,9 @@ Escherichia coli DH10B
 Escherichia coli ETEC H10407
 Escherichia coli IAI1
 Escherichia coli IAI39
-"Escherichia coli K12 DH1, ATCC 33849"
+Escherichia coli K12 DH1, ATCC 33849
 Escherichia coli K12- W3110
-"Escherichia coli K-12, MG1655"
+Escherichia coli K-12, MG1655
 Escherichia coli KO11
 Escherichia coli LF82
 Escherichia coli NA114
@@ -2266,8 +2266,8 @@ Escherichia coli SE11
 Escherichia coli SECEC SMS-3-5
 Escherichia coli UMNK88
 Escherichia coli UTI89 (UPEC)
-"Escherichia coli W, ATCC 9637"
-"Escherichia coli W, ATCC 9637"
+Escherichia coli W, ATCC 9637
+Escherichia coli W, ATCC 9637
 Neisseria lactamica 020-06
 Escherichia coli O26:H11 11368
 Helicobacter pylori 2017
@@ -2297,12 +2297,12 @@ Helicobacter pylori Shi470
 Helicobacter pylori SJM180
 Helicobacter pylori SouthAfrica7
 Helicobacter pylori 26695
-"Janthinobacterium agaricidamnosum NBRC 102515, DSM 9628"
-"Candidatus Carsonella ruddii HC, Thao2000"
+Janthinobacterium agaricidamnosum NBRC 102515, DSM 9628
+Candidatus Carsonella ruddii HC, Thao2000
 secondary endosymbiont of Ctenarytaina eucalypti Thao2000
 Wolbachia endosymbiont of Culex quinquefasciatus Pel
 Bdellovibrio bacteriovorus W
-"Helicobacter hepaticus 3B1, ATCC 51449"
+Helicobacter hepaticus 3B1, ATCC 51449
 Lawsonia intracellularis PHE/MN1-00
 Proteus mirabilis HI4320
 Granulibacter bethesdensis CGDNIH1
@@ -2314,7 +2314,7 @@ Marinomonas sp. MWYL1
 Phaeobacter gallaeciensis 2.10
 Ruegeria sp. TM1040
 Psychrobacter sp. PRwf-1
-"Pseudomonas stutzeri Lautrop AB 201, ATCC 17588"
+Pseudomonas stutzeri Lautrop AB 201, ATCC 17588
 Wolbachia endosymbiont wPip_Mol of Culex molestus
 Haemophilus influenzae Rd (KW20)
 Neisseria meningitidis MC58
@@ -2335,7 +2335,7 @@ Ensifer medicae WSM419
 Mesorhizobium ciceri bv biserrulae WSM1271
 Ensifer fredii NGR234
 Methylobacterium nodulans ORS 2060
-"Rhizobium etli CFN 42, DSM 11541"
+Rhizobium etli CFN 42, DSM 11541
 Rhizobium etli CIAT 652
 Rhizobium leguminosarum bv. viciae 3841
 Rhizobium tropici CIAT899
@@ -2368,7 +2368,7 @@ Mesorhizobium ciceri ca181
 Pseudomonas fluorescens F113
 Agrobacterium sp. H13-3
 Burkholderia cepacia 383
-"Pseudomonas stutzeri CMT.A.9, DSM 4166"
+Pseudomonas stutzeri CMT.A.9, DSM 4166
 Serratia plymuthica AS9
 Xanthomonas oryzae pv oryzae MAFF 311018
 Pseudomonas stutzeri A1501
@@ -2393,7 +2393,7 @@ Comamonas testosteroni CNB-1
 Methylobacillus flagellatus KT
 Syntrophus aciditrophicus SB
 Achromobacter xylosoxidans A8
-"Advenella mimigardefordensis DPN7, DSM 17166"
+Advenella mimigardefordensis DPN7, DSM 17166
 Brucella microti CCM 4915
 Burkholderia cenocepacia HI2424
 Burkholderia cenocepacia MC0-3
@@ -2430,10 +2430,10 @@ Escherichia coli Nissle 1917
 Escherichia coli ST2747
 Escherichia coli B7A
 Granulibacter bethesdensis CGDNIH3
-"Candidatus Carsonella ruddii CE, Thao2000"
-"Candidatus Carsonella ruddii CS, Thao2000"
-"Candidatus Carsonella ruddii HT, Thao2000"
-"Candidatus Carsonella ruddii PC, NHV"
+Candidatus Carsonella ruddii CE, Thao2000
+Candidatus Carsonella ruddii CS, Thao2000
+Candidatus Carsonella ruddii HT, Thao2000
+Candidatus Carsonella ruddii PC, NHV
 Candidatus Portiera aleyrodidarum TV
 Marichromatium purpuratum 984
 Xanthomonas cassavae CFBP 4642
@@ -2448,23 +2448,23 @@ Photobacterium profundum SS9
 Roseobacter litoralis Och 149
 Simiduia agarivorans SA1
 Sphingopyxis alaskensis RB2256
-"Vibrio harveyi BB120, ATCC BAA-1116"
+Vibrio harveyi BB120, ATCC BAA-1116
 Thalassolituus oleivorans MIL-1
 Pseudoalteromonas sp. SM9913
 Sulfurimonas denitrificans DSM 1251
 Desulfocapsa sulfexigens DSM 10523
 Alteromonas taeanensis SN2
 Desulfotalea psychrophila LSv54
-"Ferrimonas balearica PAT, DSM 9799"
+Ferrimonas balearica PAT, DSM 9799
 Shewanella halifaxensis HAW-EB4
 Shewanella sediminis HAW-EB3
-"Pseudomonas stutzeri JM3000, DSM 10701"
+Pseudomonas stutzeri JM3000, DSM 10701
 Thioflavicoccus mobilis 8321
 Campylobacter sp. 1485E
-"Desulfomicrobium baculatum X, DSM 4028"
-"Desulfarculus baarsii 2st14, DSM 2075"
+Desulfomicrobium baculatum X, DSM 4028
+Desulfarculus baarsii 2st14, DSM 2075
 Desulfobacula toluolica Tol2
-"Desulfobulbus propionicus 1pr3, DSM 2032"
+Desulfobulbus propionicus 1pr3, DSM 2032
 Desulfovibrio salexigens DSM 2638
 Shewanella amazonensis SB2B
 Acetobacter pasteurianus 386B
@@ -2619,7 +2619,7 @@ Cronobacter sakazakii CMCC 45402
 Cycloclasticus sp. P1
 Cycloclasticus zancles 7-ME
 Desulfovibrio alaskensis G20
-"Desulfovibrio gigas DSM 1382, ATCC 19364"
+Desulfovibrio gigas DSM 1382, ATCC 19364
 Desulfovibrio sp. ND132
 Dickeya chrysanthemi NCPPB 516
 Dickeya dadantii Ech586
@@ -2743,7 +2743,7 @@ Mannheimia varigena USDA-ARS-USMARC-1312
 Mannheimia varigena USDA-ARS-USMARC-1388
 Marinobacter sp. BSs20148
 Methylobacterium extorquens PA1
-"Methylocella silvestris BL2, DSM 15510"
+Methylocella silvestris BL2, DSM 15510
 Methylocystis sp. SC2
 Micavibrio sp. EPB
 Moraxella catarrhalis 25240
@@ -2811,7 +2811,7 @@ Ralstonia pickettii DTP0602
 Ralstonia solanacearum Rs-09-161
 Ralstonia solanacearum Rs-10-244
 Rhizobium etli bv. mimosae Mim1
-"Rhodobacter sphaeroides 2.4.1, ATCC BAA-808"
+Rhodobacter sphaeroides 2.4.1, ATCC BAA-808
 Rhodobacter sphaeroides ATCC 17025
 Rhodobacter sphaeroides ATCC 17029
 Rhodomicrobium vannielii ATCC 17100
@@ -2844,7 +2844,7 @@ Rickettsiales bacterium Ac37b
 Salmonella bongori Sbon_167
 Salmonella enterica enterica Serovar Cubana CFSAN002050
 Salmonella enterica enterica Serovar Heidelberg CFSAN002069
-"Salmonella enterica enterica sv. 4,[5],12:i:- 08-1736"
+Salmonella enterica enterica sv. 4,[5],12:i:- 08-1736
 Salmonella enterica enterica sv. Agona 24249
 Salmonella enterica enterica sv. Bareilly CFSAN000189
 Salmonella enterica enterica sv. Bovismorbificans 3114
@@ -2875,7 +2875,7 @@ Shigella flexneri 2003036
 Shigella flexneri Shi06HN006
 Sodalis sp. HS1
 Sorangium cellulosum So0157-2
-"Sphingomonas sanxanigenens DSM 19645, NX02"
+Sphingomonas sanxanigenens DSM 19645, NX02
 Sphingomonas sp. MM-1
 Spiribacter sp. UAH-SP71
 Thalassolituus oleivorans R6-15
@@ -2910,7 +2910,7 @@ Zymomonas mobilis mobilis CP4
 Zymomonas mobilis mobilis NCIB 11163
 Zymomonas mobilis mobilis NRRL B-12526
 Zymomonas mobilis mobilis ZM4
-"Zymomonas mobilis pomaceae Barker 1, ATCC 29192"
+Zymomonas mobilis pomaceae Barker 1, ATCC 29192
 Pseudomonas monteilii SB3078
 Pseudomonas monteilii SB3101
 Pectobacterium atrosepticum 21a
@@ -2922,7 +2922,7 @@ Ensifer meliloti GR4
 Pseudomonas chlororaphis PA23
 Serratia odorifera 4Rx13
 Arcobacter nitrofigilis DSM 7299
-"Frateuria aurantia Kondo 67, DSM 6220"
+Frateuria aurantia Kondo 67, DSM 6220
 Gluconobacter oxydans DSM 3504
 Pseudomonas syringae pv. phaseolicola 1448A
 Pseudomonas syringae pv. syringae B728a
@@ -2937,7 +2937,7 @@ Pseudomonas brassicacearum brassicacearum NFM421
 Rhizobium etli bv. mimosae IE4771
 Bradyrhizobium sp. S23321
 Ramlibacter tataouinensis TTB310
-"Haliangium ochraceum SMP-2, DSM 14365"
+Haliangium ochraceum SMP-2, DSM 14365
 Colwellia psychrerythraea 34H
 Geobacter sp. M18
 Geobacter sulfurreducens KN400
@@ -2945,22 +2945,22 @@ Methylomicrobium alcaliphilum 20Z
 Rhodoferax ferrireducens T118
 Candidatus Accumulibacter phosphatis Type IIA UW-1
 Anaeromyxobacter dehalogenans 2CP-1
-"Geobacter bemidjiensis Bem, DSM 16622"
+Geobacter bemidjiensis Bem, DSM 16622
 Geobacter sulfurreducens PCA
 Geobacter uraniireducens Rf4
 Sulfuricurvum sp. RIFRC-1
 Acidovorax sp. JS42
 Bdellovibrio exovorus JSS
-"Halothiobacillus neapolitanus c2, ATCC 23641"
+Halothiobacillus neapolitanus c2, ATCC 23641
 Paracoccus denitrificans PD1222
 Alicycliphilus denitrificans K601
-"Desulfomonile tiedjei DCB-1, DSM 6799"
+Desulfomonile tiedjei DCB-1, DSM 6799
 Pseudomonas syringae CC1557
 Acinetobacter sp. DR1
 Advenella kashmirensis WT001
 Anaeromyxobacter sp. K
 Azoarcus sp. KH32C
-"Azotobacter vinelandii DJ, ATCC BAA-1303"
+Azotobacter vinelandii DJ, ATCC BAA-1303
 Beijerinckia indica indica ATCC 9039
 Burkholderia cepacia GG4
 Burkholderia sp. YI23
@@ -3019,18 +3019,18 @@ Leptospira biflexa Patoc 1 (Ames)
 Leptospira biflexa Patoc 1 (Paris)
 Sphaerochaeta globosa Buddy
 Sphaerochaeta pleomorpha Grapes
-"Treponema caldaria H1, DSM 7334"
+Treponema caldaria H1, DSM 7334
 Treponema denticola ATCC 35405
 Spirochaeta thermophila DSM 6192
-"Spirochaeta thermophila Z-1203, DSM 6578"
-"Spirochaeta africana Z-7692, DSM 8902"
-"Treponema brennaborense DD5/3, DSM 12168"
+Spirochaeta thermophila Z-1203, DSM 6578
+Spirochaeta africana Z-7692, DSM 8902
+Treponema brennaborense DD5/3, DSM 12168
 Brachyspira pilosicoli 95/1000
 Leptospira borgpetersenii sv Hardjo-bovis JB197
 Leptospira borgpetersenii sv Hardjo-bovis L550
 Leptospira interrogans sv Copenhageni Fiocruz L1-130
 Leptospira interrogans sv Lai 56601
-"Leptospira interrogans sv LAI, IPAV"
+Leptospira interrogans sv LAI, IPAV
 Borrelia afzelii PKo
 Borrelia afzelii PKo
 Borrelia burgdorferi B31
@@ -3044,7 +3044,7 @@ Borrelia hermsii DAH
 Borrelia recurrentis A1
 Borrelia turicatae 91E135
 Borrelia valaisiana VS116
-"Brachyspira hyodysenteriae WA1, ATCC 49526"
+Brachyspira hyodysenteriae WA1, ATCC 49526
 Brachyspira pilosicoli B2904
 Treponema pallidum Fribourg-Blanc
 Treponema pallidum pallidum Chicago
@@ -3057,14 +3057,14 @@ Treponema pallidum pertenue Gauthier
 Treponema pallidum pertenue SamoaD
 Treponema paraluiscuniculi Cuniculi A
 Borrelia burgdorferi DN127
-"Sphaerochaeta coccoides SPN1, DSM 17374"
+Sphaerochaeta coccoides SPN1, DSM 17374
 Brachyspira pilosicoli P43/6/78
-"Brachyspira murdochii 56-150, DSM 12563"
-"Treponema succinifaciens 6091, DSM 2489"
+Brachyspira murdochii 56-150, DSM 12563
+Treponema succinifaciens 6091, DSM 2489
 Brachyspira intermedia PWS/A
 Treponema azotonutricium ZAS-9
 Treponema primitia ZAS-2
-"Turneriella parva H, DSM 21527"
+Turneriella parva H, DSM 21527
 Treponema pallidum pallidum Sea 81-4
 Borrelia afzelii HLJ01
 Borrelia anserina BA2
@@ -3083,18 +3083,18 @@ Borrelia parkeri HR1
 Borrelia parkeri SLO
 Spirochaeta sp. L21-RPul-D2
 Treponema pedis T A4
-"Spirochaeta smaragdinae SEBR 4228, DSM 11293"
+Spirochaeta smaragdinae SEBR 4228, DSM 11293
 Borrelia afzelii Tom3107
 Borrelia valaisiana Tom4006
-"Thermovirga lienii Cas60314, DSM 17291"
-"Anaerobaculum mobile NGA, DSM 13181"
-"Aminobacterium colombiense ALA-1, DSM 12261"
-"Thermanaerovibrio acidaminovorans Su883, DSM 6589"
+Thermovirga lienii Cas60314, DSM 17291
+Anaerobaculum mobile NGA, DSM 13181
+Aminobacterium colombiense ALA-1, DSM 12261
+Thermanaerovibrio acidaminovorans Su883, DSM 6589
 Synergistetes bacterium SGP1
 Mycoplasma gallisepticum NC06_2006.080-5-2P
 Candidatus Mycoplasma haemolamae Purdue
 Mycoplasma wenyonii Massachusetts
-"Acholeplasma oculi 19L, ATCC 27350"
+Acholeplasma oculi 19L, ATCC 27350
 Candidatus Phytoplasma aster yellows witches'-broom AY-WB
 Candidatus Phytoplasma australiense
 Candidatus Phytoplasma australiense NZSb11
@@ -3126,7 +3126,7 @@ Mycoplasma gallisepticum WI01_2001.043-13-2P
 Mycoplasma haemocanis Illinois
 Mycoplasma haemofelis Langford 1
 Mycoplasma haemofelis Ohio2
-"Mycoplasma hominis PG21, ATCC 23114"
+Mycoplasma hominis PG21, ATCC 23114
 Mycoplasma hyopneumoniae 168
 Mycoplasma hyopneumoniae 232
 Mycoplasma hyopneumoniae 7422
@@ -3160,19 +3160,19 @@ Spiroplasma mirum ATCC 29335
 Spiroplasma sabaudiense Ar-1343
 Spiroplasma syrphidicola EA-1
 Spiroplasma taiwanense CT-1
-"Ureaplasma parvum sv 3, ATCC 27815"
+Ureaplasma parvum sv 3, ATCC 27815
 Mycoplasma suis KI_3806
 Mycoplasma hyorhinis SK76
-"Acholeplasma brassicae 0502, ATCC 49388"
+Acholeplasma brassicae 0502, ATCC 49388
 Acholeplasma laidlawii PG-8A
-"Acholeplasma palmae J233, ATCC 49389"
+Acholeplasma palmae J233, ATCC 49389
 Mycoplasma genitalium G37
 Mycoplasma genitalium M2288
 Mycoplasma genitalium M2321
 Mycoplasma genitalium M6282
 Mycoplasma genitalium M6320
-"Ureaplasma parvum sv 3, ATCC 700970"
-"Ureaplasma urealyticum Western sv 10, ATCC 33699"
+Ureaplasma parvum sv 3, ATCC 700970
+Ureaplasma urealyticum Western sv 10, ATCC 33699
 Mycoplasma hyopneumoniae 168-L
 Candidatus Hepatoplasma crinochetorum Av
 Candidatus Phytoplasma solani 284/09
@@ -3188,10 +3188,10 @@ Mycoplasma parvum Indiana
 Mycoplasma pneumoniae M129-B7
 Mycoplasma putrefaciens Mput9231
 Spiroplasma mirum SMCA
-"Thermodesulfatator indicus CIR29812, DSM 15286"
+Thermodesulfatator indicus CIR29812, DSM 15286
 Thermodesulfobacterium geofontis OPF15
 Thermodesulfobacterium commune DSM 2178
-"Thermotoga thermarum LA3, DSM 5069"
+Thermotoga thermarum LA3, DSM 5069
 Marinitoga piezophila KA3
 Thermosipho africanus TCF52B
 Fervidobacterium nodosum Rt17-B1
@@ -3203,9 +3203,9 @@ Thermotoga naphthophila RKU-10
 Thermotoga neapolitana DSM 4359
 Thermotoga sp. RQ2
 Thermotoga petrophila RKU-1
-"Fervidobacterium pennivorans Ven 5, DSM 9078"
+Fervidobacterium pennivorans Ven 5, DSM 9078
 Thermotoga maritima MSB8
-"Thermotoga maritima MSB8, DSM 3109"
+Thermotoga maritima MSB8, DSM 3109
 Mesotoga prima MesG1AG4.2
 Thermotoga elfii NBRC 107921
 Thermotoga hypogea NBRC 106472

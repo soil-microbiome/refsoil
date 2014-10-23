@@ -7,5 +7,5 @@ for n, line in enumerate(open(sys.argv[1], 'rU')):
         dat = line.rstrip().split('\t')
         if len(dat) == 36:
             strain = dat[9]
-            strain.translate(None, '"')
+            strain = strain.replace('"', '')
             print strain
